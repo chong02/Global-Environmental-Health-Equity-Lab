@@ -3,3 +3,6 @@
 
 # ipynb checkpoints
 *.ipnyb_checkpoints
+
+# utils.py
+utils.py
