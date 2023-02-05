@@ -1,0 +1,5 @@
+# Mac files
+.DS_Store
+
+# ipynb checkpoints
+*.ipnyb_checkpoints
